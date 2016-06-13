@@ -1,9 +1,9 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: Lost Onion
+SEOTitle: Lost Onion博客 | Lost Onion
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: ""
+email: superlavendula@gmail.com
+description: "喜欢和好奇任何新奇的事物"
 keyword: ""
 url: "LostOnion.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,11 +12,11 @@ timezone : CN
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     2474758392
+zhihu_username:     superlavendula
+github_username:    LostOnion
 #twitter_username:  huxpro
-facebook_username:  huxpro
+#facebook_username:  huxpro
 
 
 
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: lostonion
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -59,10 +59,10 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+#ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 
 
@@ -85,16 +85,16 @@ friends: [
         title: "Hux Blog",
         href: "http://huangxuan.me"
     },{
-        title: "Foo",
-        href: "#"
+        title: "雨松MOMO的Blog",
+        href: "http://www.xuanyusong.com/"
     },{
-        title: "Bar",
-        href: "#"
+        title: "效率最高的热更新解决方案",
+        href: "http://www.ulua.org/"
     },{
-        title: "Example Friends",
-        href: "#"
+        title: "云风的Blog",
+        href: "http://blog.codingnow.com/"
     },{
-        title: "It helps SEO",
-        href: "#"
+        title: "冯乐乐的Blog",
+        href: "https://github.com/candycat1992"
     }
 ]
